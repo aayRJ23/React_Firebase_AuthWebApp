@@ -7,7 +7,7 @@ This web application built with ReactJS and Firebase provides user authenticatio
 - Sign up using email and password or via Google authentication.
 - User details are stored in Firestore upon successful signup.
 - Sign in with existing user credentials.
-- Display user's name and logout button upon successful sign in.
+- Display user's email and logout button upon successful sign in.
 - Handle incorrect credentials feedback.
 
 ## How to Use
